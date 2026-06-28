@@ -51,8 +51,6 @@ YouTube stores subtitle tracks separately from the video stream. [`yt-dlp`](http
 
 ## License
 
-MIT — do whatever you want with it.
+MIT
 
-## Built by
 
-[@AkosHladon](https://twitter.com/AkosHladon) — indie developer building micro-SaaS, niche directories, and AI automation pipelines.
